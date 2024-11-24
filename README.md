@@ -1,5 +1,5 @@
 # 完整专业版源码
-https://zibovip.top/2341.html​
+https://zibovip.top/2341.html
 
 环境检查
 首先，我们需要确保PHP版本符合要求：
